@@ -1,2 +1,6 @@
 # GrpeApple.github.io
-My website, basically just testing.
+My personal website.
+# Features
+- 404 page
+- CSS
+- JS

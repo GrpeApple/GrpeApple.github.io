@@ -3,3 +3,7 @@
 body {
 	font-family: "Gill Sans";
 }
+
+.short-desc {
+	border-bottom: 1px dotted;
+}

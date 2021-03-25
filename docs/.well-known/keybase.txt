@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/grapeapple
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://grpeapple.github.io
+  * I am grapeapple (https://keybase.io/grapeapple) on keybase.
+  * I have a public key ASD3CtnvsDPK4ApPFv1Y_9PoL_SSno5GlQU0aYNxTzeUcgo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01016200fa93f8f6c18a40103553a15b2a9642c1e8e8448c462cfb52ded3108dd2100a",
+      "host": "keybase.io",
+      "kid": "0120f70ad9efb033cae00a4f16fd58ffd3e82ff4929e8e469505346983714f3794720a",
+      "uid": "56558eb9081a3c5a2a702c8bb41abd19",
+      "username": "grapeapple"
+    },
+    "merkle_root": {
+      "ctime": 1616661862,
+      "hash": "d3e98c26395c835df4aa645620f0f01e2c474d05b537d83c1c516b49e86a0a1c949dc5cb329d98bf6c82d2bf2138ab91ce0eecd99df2c9230d79e384e4de496f",
+      "hash_meta": "25420578035bcccdf20fd90542d4be88a0e4a6ac47051f8a55eea378b880098d",
+      "seqno": 19464472
+    },
+    "service": {
+      "entropy": "h+Vk5PehP4QhQIsqzmvxXZIG",
+      "hostname": "grpeapple.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "5.6.1"
+  },
+  "ctime": 1616661967,
+  "expire_in": 504576000,
+  "prev": "0300a50cd50e313839635bd16be5f4ef85174c684d9646ff938818072d95aafc",
+  "seqno": 13,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEg9wrZ77AzyuAKTxb9WP/T6C/0kp6ORpUFNGmDcU83lHIKp3BheWxvYWTESpcCDcQgAwClDNUOMTg5Y1vRa+X074UXTGhNlkb/k4gYBy2VqvzEIL5nTRUD/PzxckDmJw/i8B+Xz4S3UArdfGQJGqRO+L5iAgHCo3NpZ8RAQf0Om8M05yTCCN9mDm0M8wkA91jveqgK8KqkvzeIDdIlRSWm5kB1/631jH11HUYmDM9RYcwVGM/bvuRPAqw8AahzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIOjYSIoHUvnncbkKD+PD3uBzUmaWWxRo8UE113PHt65io3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/grapeapple
+
+==================================================================
